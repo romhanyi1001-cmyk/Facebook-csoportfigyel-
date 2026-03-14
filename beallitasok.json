@@ -1,0 +1,20 @@
+{
+  "szurok": [
+    {
+      "nev": "szallaskereses",
+      "kereso_szavak_barmelyike": [
+        "szállás",
+        "albérlet",
+        "kiadó",
+        "szoba",
+        "lakás"
+      ],
+      "kizaro_szavak": [
+        "hotel",
+        "nyaralás"
+      ],
+      "valasz_mintasablon": "Írj rövid, természetes magyar választ olyan posztra, ahol valaki szállást keres.",
+      "kep_mintasablon": "Letisztult magyar közösségi médiás grafika lakhatási segítség témában."
+    }
+  ]
+}
